@@ -1,0 +1,5 @@
+dtaidistance==2.3.9
+fastdtw==0.3.4
+haversine==2.6.0
+numpy==1.23.0
+pandas==1.4.3
