@@ -13,5 +13,5 @@ PyVT is developed based on Python 3. The environment that each module depends on
 ## Developer's guide
 See the "Developer's Guide"
 
-## Licensing
+## License
 MIT
