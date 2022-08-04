@@ -4,7 +4,7 @@
 
 PyVT, an open-source Python toolkit for preprocessing and analysis of vessel spatio-temporal trajectories. The toolkit realizes four functions: trajectory preprocessing, trajectory data management, trajectory mining, and trajectory visualization. The toolkit is simple to use, provides satisfactory default parameter settings, and makes it easy for basic users to use and replicate its functionality in proprietary applications. More advanced users can further adjust the functions to meet their needs by optimizing parameters. At the same time, its design focuses on composability and reusability, making it functional modular and maintainable, allowing for further development.
 ![The technical architecture of PyVT](https://img-blog.csdnimg.cn/1c6b33160baf4f538614c6b87dda65ce.png)
-.<img src="https://github.com/Legend-yd/MyDawn/blob/master/20171223205540585.png" width="300" height="450" />
+<img src="[https://github.com/Legend-yd/MyDawn/blob/master/20171223205540585.png](https://img-blog.csdnimg.cn/1c6b33160baf4f538614c6b87dda65ce.png)" width="300" height="450" />
 
 ## Requirements
 
