@@ -1,0 +1,4 @@
+matplotlib==3.5.1
+numpy==1.23.0
+pandas==1.4.1
+vincenty==0.1.4
